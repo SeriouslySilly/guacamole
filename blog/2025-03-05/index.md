@@ -1,13 +1,13 @@
 ---
-slug: jak-utrzymac-rosliny-przy-zyciu
-title: Nie podlałam, czyli kilka słów o tym, jak utrzymać rośliny przy życiu
+slug: apka-do-kwiatków
+title: Apka do kwiatków?
 authors: [kujawska]
 tags: [todoist]
 ---
 
 ![](./pexels-huy-phan-316220-3153522.jpg)
 
-Do mojego résumé - jako jedno z zainteresowań od czasu pandemii - dodaję *utrzymywanie roślin doniczkowych przy życiu*. Takie hobby.
+Do mojego résumé - jako jedno z zainteresowań od czasu pandemii - dodaję *utrzymywanie roślin doniczkowych przy życiu*. Takie hobby. Czy da się dbać o domową dżunglę za pomocą aplikacji?
 
 <!-- truncate -->
 

@@ -66,7 +66,7 @@ const config: Config = {
       title: 'Nie znam się, to napiszę',
       logo: {
         alt: 'Nie znam się logo',
-        src: 'img/ga-red-logo.svg',
+        src: 'img/logo-nzs.svg',
       },
       items: [
         //{

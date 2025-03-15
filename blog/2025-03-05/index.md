@@ -2,7 +2,7 @@
 slug: apka-do-kwiatków
 title: Apka do kwiatków?
 authors: [kujawska]
-tags: [todoist]
+tags: [todoist, rośliny]
 ---
 
 ![](./pexels-huy-phan-316220-3153522.jpg)

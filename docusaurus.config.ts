@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Basia Ska\'s blog',
-  tagline: 'Lorem ipsum dolor',
+  title: 'Nie znam się, to napiszę',
+  tagline: 'Nie znam się, to napiszę',
   favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
@@ -18,7 +18,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'guacamole', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -61,11 +61,11 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    //image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Basia Ska\'s blog',
+      title: 'Nie znam się, to napiszę',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Nie znam się logo',
         src: 'img/ga-red-logo.svg',
       },
       items: [
